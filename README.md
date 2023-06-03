@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [detector-js](https://detector.js.org)
 
-[comment]: # 📝 I regularly write articles on [https://dout.dev](https://dout.dev)
+<!-- [comment]: # 📝 I regularly write articles on [https://dout.dev](https://dout.dev) -->
 
-[comment]: # 📄 Know about my experiences [https://pixu.dev](https://pixu.dev)
+<!-- [comment]: # 📄 Know about my experiences [https://pixu.dev](https://pixu.dev) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
