@@ -3,11 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pixu1980&label=Profile%20views&color=0e75b6&style=flat" alt="pixu1980" /> </p>
 
-<p align="center"> 🔭 I’m currently working on [detector-js](https://detector.js.org)</p>
+<p align="center"> 🔭 I’m currently working on <a href="https://detector.js.org" target="_blank" rel="noreferrer">detector-js</a></p>
+
+<p align="center"> 📄 Know about my experiences <a href="https://pixu.dev" target="_blank" rel="noreferrer">pixu.dev</a></p>
 
 <!-- [comment]: # 📝 I regularly write articles on [https://dout.dev](https://dout.dev) -->
 
-<!-- [comment]: # 📄 Know about my experiences [https://pixu.dev](https://pixu.dev) -->
+<!-- [comment]: # 📄 Know about my experiences [](https://pixu.dev) -->
 
 <br /><br />
 
