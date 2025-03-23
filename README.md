@@ -1,5 +1,5 @@
 <h1 align="center"><small>Hi there 👋,</small><br />I'm Emiliano "Pixu" Pisu</h1>
-<h3 align="center">Your friendly neighbourhood UI/UX Engineer</h3>
+<h3 align="center">Your friendly neighbourhood Design Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pixu1980&label=Profile%20views&color=0e75b6&style=flat" alt="pixu1980" /> </p>
 
