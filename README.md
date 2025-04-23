@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pixu1980&label=Profile%20views&color=0e75b6&style=flat" alt="pixu1980" /> </p>
 
-<p align="center"> 🔭 I’m currently working on <a href="https://detector.js.org" target="_blank" rel="noreferrer">detector-js</a></p>
+<p align="center"> 🔭 I’m currently working on <a href="https://wcag-ui.com" target="_blank" rel="noreferrer">wcagUI</a> and <a href="https://detector.js.org" target="_blank" rel="noreferrer">detector-js</a></p>
 
 <p align="center"> 📄 Know about my experiences <a href="https://pixu.dev" target="_blank" rel="noreferrer">pixu.dev</a></p>
 
